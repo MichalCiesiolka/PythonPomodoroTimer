@@ -1,0 +1,13 @@
+STUDY_TIME = 0
+SHORT_BREAK_TIME = 0
+LONG_BREAK_TIME = 0
+run = False
+g_time = None
+passed = -1
+to_pass = 1
+points = 0
+terminate_timer = True
+config_dict = None
+time_passed_stat = 0
+i = 0
+play_sounds = True

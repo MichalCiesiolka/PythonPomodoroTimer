@@ -1,0 +1,5 @@
+STUDY_TIME = 1500
+SHORT_BREAK_TIME = 300
+LONG_BREAK_TIME = 900
+points = 15
+time_passed_stat = 3953
