@@ -1,6 +1,6 @@
 # PythonPomodoroTimer
 ## About the project
-The Pomodoro Timer is a versatile and efficient time management tool designed to enhance productivity and focus. Inspired by the renowned Pomodoro Technique, this project offers a digital solution that helps users break down their work into manageable intervals, allowing for intense concentration while maintaining regular breaks.
+The Pomodoro Timer is a versatile and efficient time management tool designed to enhance productivity and focus. Inspired by the renowned Pomodoro Technique, this project offers a digital solution that helps users break down their work into manageable intervals, allowing for intense concentration while maintaining regular breaks. The GUI has been made using Tkinter library.
 
 ![full](https://github.com/MichalCiesiolka/PythonPomodoroTimer/assets/114651792/eb0bc9e3-ba10-48e8-99ad-09c883c72ebe)
 ## Features
